@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News App</title>
+    <link rel="stylesheet" href="./style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <header>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQb2rJ9XqXhInYLx3tzF-11LGeH5jFHHmCYw&s" alt="Daily News" id="brand">
+        <div class="input-search desktop">
+            <form id="searchForm">
+                <input type="text" placeholder="Type for search..." id="searchInput">
+                <span><i class="fa-solid fa-magnifying-glass"></i></span>
+            </form>
+        </div>
+
+        <nav class="desktop">
+            <ul>
+                <li onclick="Search('Sports')">Sports</li>
+                    <li onclick="Search('Business')">Business</li>
+                    <li onclick="Search('Technology')">Technology</li>
+                    <li onclick="Search('Education')">Education</li>
+                    <li onclick="Search('Politics')">Politics</li>
+            </ul>
+        </nav>
+
+        <div class="menuBtn">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+
+        <div class="mobile hidden">
+            <nav>
+                <ul class="nav-list">
+                    <li onclick="Search('Sports')">Sports</li>
+                    <li onclick="Search('Business')">Business</li>
+                    <li onclick="Search('Technology')">Technology</li>
+                    <li onclick="Search('Education')">Education</li>
+                    <li onclick="Search('Politics')">Politics</li>
+                </ul>
+            </nav>
+            <div class="input-search">
+                <form id="searchFormMobile"  id="searchInputMobile">
+                    <input type="text" placeholder="Type for search...">
+                    <span><i class="fa-solid fa-magnifying-glass"></i></span>
+                </form>
+            </div>
+
+
+        </div>
+
+
+
+    </header>
+
+    <!-- main -->
+
+    <main>
+
+
+
+    </main>
+
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
