@@ -18,8 +18,8 @@
 
 ## 📷 Screenshots
 
-![image]((https://github.com/Kumaramit0809/News-Bytes/blob/c2dd1dcdc860e4e2c34871caba8b980a856e9208/Screenshot%202025-07-28%20004211.png))
+![image alt]((https://github.com/Kumaramit0809/News-Bytes/blob/c2dd1dcdc860e4e2c34871caba8b980a856e9208/Screenshot%202025-07-28%20004211.png))
 
-![image]([https://github.com/Kumaramit0809/News-Bytes/blob/c2dd1dcdc860e4e2c34871caba8b980a856e9208/Screenshot%202025-07-28%20004123.png))
+![image alt]([https://github.com/Kumaramit0809/News-Bytes/blob/c2dd1dcdc860e4e2c34871caba8b980a856e9208/Screenshot%202025-07-28%20004123.png))
 
-![image]([https://github.com/Kumaramit0809/News-Bytes/blob/c2dd1dcdc860e4e2c34871caba8b980a856e9208/Screenshot%202025-07-28%20004211.png]))
+![image alt]([https://github.com/Kumaramit0809/News-Bytes/blob/c2dd1dcdc860e4e2c34871caba8b980a856e9208/Screenshot%202025-07-28%20004211.png]))
